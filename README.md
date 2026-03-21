@@ -24,16 +24,13 @@ I'm a BTech IT student at Dwarkadas J. Sanghvi College of Engineering, Mumbai, I
 <h3 align="left">Find me:</h3>
 
 <p align="left">
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/prasham-karkera-3a6820290/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="YOUR_GITHUB" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
-</a>
-<a href="YOUR_CODEFORCES" target="_blank">
+<a href="https://codeforces.com/profile/odenzbergz101" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="40" />
 </a>
-<a href="YOUR_CODECHEF" target="_blank">
+<a href="https://www.codechef.com/users/odenzberg" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40" />
 </a>
 </p>
@@ -123,12 +120,12 @@ I'm a BTech IT student at Dwarkadas J. Sanghvi College of Engineering, Mumbai, I
 <h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=YOUR_USERNAME&theme=dracula"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Prasham-Karkera&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Prasham-Karkera&theme=dracula"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prasham-Karkera&layout=compact&theme=dracula"/>
 </div>
