@@ -88,28 +88,7 @@ I'm a BTech IT student at Dwarkadas J. Sanghvi College of Engineering, Mumbai, I
 - ⭐ **CodeChef 3★ (1628)** — Top 15% :contentReference[oaicite:3]{index=3}  
 - ⚡ **Codeforces Pupil (1290)** :contentReference[oaicite:4]{index=4}  
 
----
 
-## Projects
-
-### ⚖️ NyayaSetu  
-- Hybrid **RAG (BM25 + Vector Search)** for legal queries  
-- Clause Comparator (IPC vs BNS)  
-- WhatsApp chatbot using Twilio  
-
-### 🛡️ Trishul  
-- Portable **log analysis system**  
-- Sigma Rule Engine + secure encrypted reporting  
-
-### 🤖 Phantom Link  
-- AI Android automation agent using **ADB + LLMs**  
-- 7+ modules + SOS + GPS tracking  
-
-### 📄 SkillSnap  
-- Resume builder with **real-time preview + PDF export**  
-- MERN stack + Clerk authentication  
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
